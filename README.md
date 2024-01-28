@@ -1,3 +1,7 @@
+Markdown jest dostosowany pod [Obsidian](https://obsidian.md/), więc w podglądzie Githuba część rzeczy może się psuć
+
+---
+
 # Podstawy automatyki - notatki na egzamin
 by Maciej, 2023-01-04, v2
 Część obrazków ukradnięte z prezentacji dr inż. Nowaka, prof. Urbaniaka, materiałów z Podstawy Automatyki z AGH, czy też z notatek innych osób
